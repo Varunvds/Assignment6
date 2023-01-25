@@ -1,0 +1,5 @@
+[{'name': 'Varun', 'dob': '23-06-1992', 'height': '163', 'city': 'Bangalore', 'state': 'Karnataka'}]
+[{'name': 'Amit', 'dob': '30-11-1992', 'height': '165', 'city': 'Patna', 'state': 'Bihar'}]
+[{'name': 'Surya', 'dob': '25-09-1992', 'height': '165', 'city': 'Dhanabad', 'state': 'Jharkhand'}]
+[{'name': 'Vaibhav', 'dob': '13-07-1993', 'height': '166', 'city': 'Bhubaneswar', 'state': 'Odisga'}]
+[{'name': 'Vikram', 'dob': '19-02-1992', 'height': '167', 'city': 'Kolkata', 'state': 'West Bengal'}]
