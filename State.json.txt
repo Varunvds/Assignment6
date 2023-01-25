@@ -1,0 +1,7 @@
+State: Bihar  Capital: Patna
+State: Jharkhand  Capital: Ranchi
+State: Karnataka  Capital: Bangalore
+State: Maharashtra  Capital: Mumbai
+State: Tamil Nadu  Capital: Chennai
+State: West Bangal  Capital: Kolkata
+State: Jammu & Kashmir  Capital: SriNagar
